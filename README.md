@@ -4,15 +4,15 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=35&duration=4000&pause=500&color=F149F7&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Samuel+Sagar!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Dedicated software developer with an insatiable curiosity for problem-solving. Driven by a love for elegant code, I thrive on turning complex challenges into elegant solutions.</h3>
+<h3 align="center">~Dedicated software developer with an insatiable curiosity for problem-solving. Driven by a love for elegant code, I thrive on turning complex challenges into elegant solutions.~</h3>
 
 <br/>
 
 <div align="center">
  
- 👨🏻‍💻 Currently working on **a ReactNative Application**
+ 👨🏻‍💻 *Currently working on **a ReactNative Application***
  
- 📝 Currently learning **Python, Mysql, Django, Azure**
+ 📝 *Currently learning **Python, Mysql, Django, Azure***
 
  </div>
 
