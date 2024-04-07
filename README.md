@@ -15,6 +15,8 @@
  📝 Currently learning **Python, Mysql, Django, Azure**
 
  </div>
+
+<br/>
  
 <div align="center"> 
   <a href="mailto:samuelsagar@gmail.com">
@@ -30,19 +32,19 @@
 
  <hr/>
  
-<h2 align="center">LANGUAGES</h2>
+<h2 align="left">LANGUAGES</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,cpp,cs" /><br>
 </div>
 
-<h2 align="center">FRAMEWORKS & DBs</h2>
+<h2 align="left">FRAMEWORKS & DBs</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,django,flask,mysql,sqlite,firebase" /><br>
 </div>
 
-<h2 align="center">TOOLS</h2>
+<h2 align="left">TOOLS</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,anaconda,atom,github,git" />
@@ -52,7 +54,7 @@
 <hr/>
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2>⚡ My Contributions ⚡</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SamuelSagar20/SamuelSagar20/output/github-contribution-grid-snake.svg" />
   
@@ -64,16 +66,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-SamuelSagar20.vercel.app/?user=SamuelSagar20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SamuelSagar20&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSagar20&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
+  <img width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelSagar20&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSagar20&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  
 </div>
 
 <br/><br/>
 
 <hr/>
 
-<br/>
-
-<br/>
